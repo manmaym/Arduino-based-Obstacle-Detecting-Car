@@ -8,7 +8,6 @@ https://drive.google.com/file/d/1N4ii9MJiHEWqb8aQLrDS6pElsUyvZUfm/view?usp=shari
 This prototype demonstrates fundamental concepts in:
 - Sensor integration with microcontrollers
 - Real-time decision making based on sensor input
-- Autonomous navigation systems
 - Practical application of programming logic
 
 ## Features
