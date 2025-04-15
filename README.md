@@ -1,7 +1,7 @@
 # Arduino-based-Obstacle-Detecting-Car
 Arduino-based car that utilizes ultrasonic sensors to detect and avoid obstacles
 
-![Project Demo](https://drive.google.com/file/d/1N4ii9MJiHEWqb8aQLrDS6pElsUyvZUfm/view?usp=sharing)
+https://drive.google.com/file/d/1N4ii9MJiHEWqb8aQLrDS6pElsUyvZUfm/view?usp=sharing
 
 ## Overview
 
